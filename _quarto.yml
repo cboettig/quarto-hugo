@@ -1,0 +1,7 @@
+project:
+  title: "example"
+  type: website
+  render:
+    - "*.qmd"
+    - "!public/"
+    - "content/_index.qmd"
