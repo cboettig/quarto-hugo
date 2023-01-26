@@ -1,6 +1,6 @@
 project:
   title: "example"
-  type: website
+  type: hugo
   render:
     - "*.qmd"
     - "!public/"
